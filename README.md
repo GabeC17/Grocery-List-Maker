@@ -1,2 +1,2 @@
-# To-Do-List-Pt2
+# To-Do-List
 Code creates a to-do list with input from the user.
